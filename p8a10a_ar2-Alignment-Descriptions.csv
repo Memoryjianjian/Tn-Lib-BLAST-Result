@@ -1,0 +1,34 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Pseudomonas sp. M20 chromosome, complete genome",Pseudomonas sp. M20,200,200,15%,4e-46,86.17,6734998,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP173611.1?report=genbank&log$=nucltop&blast_rank=1&RID=0G439K3W016"",""CP173611.1"")"
+"Pseudomonas sp. R84 chromosome, complete genome",Pseudomonas sp. R84,200,200,15%,4e-46,86.17,6601805,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP019426.1?report=genbank&log$=nucltop&blast_rank=2&RID=0G439K3W016"",""CP019426.1"")"
+"Pseudomonas sp. A34-9 chromosome, complete genome",Pseudomonas sp. A34-9,198,198,16%,2e-45,85.49,6541947,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP119967.1?report=genbank&log$=nucltop&blast_rank=3&RID=0G439K3W016"",""CP119967.1"")"
+"Pseudomonas sp. P108 chromosome, complete genome",Pseudomonas sp. P108,198,198,16%,2e-45,85.49,6631596,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP126691.1?report=genbank&log$=nucltop&blast_rank=4&RID=0G439K3W016"",""CP126691.1"")"
+"Pseudomonas sp. S49 chromosome, complete genome",Pseudomonas sp. S49,198,198,16%,2e-45,85.49,6659551,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP019432.1?report=genbank&log$=nucltop&blast_rank=5&RID=0G439K3W016"",""CP019432.1"")"
+"Pseudomonas sp. RU47 chromosome, complete genome",Pseudomonas sp. RU47,198,198,16%,2e-45,85.49,6663463,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022411.1?report=genbank&log$=nucltop&blast_rank=6&RID=0G439K3W016"",""CP022411.1"")"
+"Pseudomonas sp. ZY71 chromosome, complete genome",Pseudomonas sp. ZY71,195,195,15%,2e-44,85.64,6693135,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP144274.1?report=genbank&log$=nucltop&blast_rank=7&RID=0G439K3W016"",""CP144274.1"")"
+"Pseudomonas sp. B21-041 chromosome, complete genome",Pseudomonas sp. B21-041,193,193,16%,7e-44,84.97,6414521,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP087175.1?report=genbank&log$=nucltop&blast_rank=8&RID=0G439K3W016"",""CP087175.1"")"
+"Pseudomonas zeae strain BIM B-582 chromosome, complete genome",Pseudomonas zeae,187,187,16%,3e-42,84.46,6470456,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP102358.1?report=genbank&log$=nucltop&blast_rank=9&RID=0G439K3W016"",""CP102358.1"")"
+"Pseudomonas germanica strain FIT28 chromosome, complete genome",Pseudomonas germanica,182,182,16%,2e-40,83.94,6713530,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP071586.1?report=genbank&log$=nucltop&blast_rank=10&RID=0G439K3W016"",""CP071586.1"")"
+"Pseudomonas germanica strain P9_87 chromosome, complete genome",Pseudomonas germanica,182,182,16%,2e-40,83.94,6530867,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP125372.1?report=genbank&log$=nucltop&blast_rank=11&RID=0G439K3W016"",""CP125372.1"")"
+"Pseudomonas sp. 43A chromosome, complete genome",Pseudomonas sp. 43A,182,182,16%,2e-40,84.10,6791021,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP054880.1?report=genbank&log$=nucltop&blast_rank=12&RID=0G439K3W016"",""CP054880.1"")"
+"Pseudomonas sp. 29A chromosome, complete genome",Pseudomonas sp. 29A,182,182,16%,2e-40,84.10,6775260,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP059738.1?report=genbank&log$=nucltop&blast_rank=13&RID=0G439K3W016"",""CP059738.1"")"
+"Pseudomonas sp. B21-051 chromosome, complete genome",Pseudomonas sp. B21-051,176,176,16%,7e-39,83.59,6046332,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP087166.1?report=genbank&log$=nucltop&blast_rank=14&RID=0G439K3W016"",""CP087166.1"")"
+"Pseudomonas sp. ADAK2 chromosome, complete genome",Pseudomonas sp. ADAK2,169,169,16%,1e-36,82.32,7105260,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP052862.1?report=genbank&log$=nucltop&blast_rank=15&RID=0G439K3W016"",""CP052862.1"")"
+"Pseudomonas sp. ADAK7 chromosome, complete genome",Pseudomonas sp. ADAK7,169,169,16%,1e-36,82.32,7105297,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP052861.1?report=genbank&log$=nucltop&blast_rank=16&RID=0G439K3W016"",""CP052861.1"")"
+"Pseudomonas sp. HOU2 chromosome, complete genome",Pseudomonas sp. HOU2,165,165,16%,2e-35,82.56,6047544,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP160398.1?report=genbank&log$=nucltop&blast_rank=17&RID=0G439K3W016"",""CP160398.1"")"
+"Pseudomonas sp. Seg1 DNA, complete genome",Pseudomonas sp. Seg1,159,159,16%,7e-34,81.96,6625535,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/AP021903.1?report=genbank&log$=nucltop&blast_rank=18&RID=0G439K3W016"",""AP021903.1"")"
+"Pseudomonas sp. B21-021 chromosome, complete genome",Pseudomonas sp. B21-021,156,156,16%,9e-33,81.87,6494068,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP087192.1?report=genbank&log$=nucltop&blast_rank=19&RID=0G439K3W016"",""CP087192.1"")"
+"Pseudomonas syringae isolate inb918 chromosome, complete genome",Pseudomonas syringae,156,156,16%,9e-33,81.87,6381237,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP024646.1?report=genbank&log$=nucltop&blast_rank=20&RID=0G439K3W016"",""CP024646.1"")"
+"Pseudomonas chlororaphis strain YJY915 chromosome, complete genome",Pseudomonas chlororaphis,156,156,16%,9e-33,81.87,6436664,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP113803.1?report=genbank&log$=nucltop&blast_rank=21&RID=0G439K3W016"",""CP113803.1"")"
+"Pseudomonas sp. VD-NE white chromosome, complete genome",Pseudomonas sp. VD-NE white,154,154,16%,3e-32,81.35,6695895,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP134773.1?report=genbank&log$=nucltop&blast_rank=22&RID=0G439K3W016"",""CP134773.1"")"
+"Pseudomonas sp. VD-NE ins chromosome, complete genome",Pseudomonas sp. VD-NE ins,154,154,16%,3e-32,81.35,6696054,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP134772.1?report=genbank&log$=nucltop&blast_rank=23&RID=0G439K3W016"",""CP134772.1"")"
+"Pseudomonas sp. VD-NE ext chromosome, complete genome",Pseudomonas sp. VD-NE ext,154,154,16%,3e-32,81.35,6696047,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP134774.1?report=genbank&log$=nucltop&blast_rank=24&RID=0G439K3W016"",""CP134774.1"")"
+"Pseudomonas tensinigenes strain ZA 5.3 chromosome, complete genome",Pseudomonas tensinigenes,154,154,16%,3e-32,81.44,6621778,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP077089.1?report=genbank&log$=nucltop&blast_rank=25&RID=0G439K3W016"",""CP077089.1"")"
+"Pseudomonas fitomaticsae strain FIT81 chromosome, complete genome",Pseudomonas fitomaticsae,150,150,16%,4e-31,81.54,6492796,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP075567.1?report=genbank&log$=nucltop&blast_rank=26&RID=0G439K3W016"",""CP075567.1"")"
+"Pseudomonas fluorescens strain YK-310 chromosome, complete genome",Pseudomonas fluorescens,145,145,16%,2e-29,80.83,6498941,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP071797.1?report=genbank&log$=nucltop&blast_rank=27&RID=0G439K3W016"",""CP071797.1"")"
+
+
+
+		
+
+
